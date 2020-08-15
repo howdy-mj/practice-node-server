@@ -39,6 +39,8 @@ $ npx webpack
 
 # zipcode.js
 
+- 다른 작업
+
 ```
 $ node main.js
 
